@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/aryansharma/Desktop/M2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/TgUFESfky4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [GIPHY](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
